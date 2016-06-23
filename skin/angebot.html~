@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+	<meta charset="utf-8">
+	<meta name="keywords" content="Kosmetik, Hautpflege">
+	<meta name="description" content="AtemArt und Skin">
+	
+	<title>Kosmetik und Hautpflege</title>
+	<link href='http://fonts.googleapis.com/css?family=Ledger|Lato:100,300,400,700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="../style.css">
+</head>
+
+
+
+<body>
+
+	<header class="headerbar">
+	<div class="left" style="background-color:#659633;">
+	</div>
+	<div class="center" style="background-color:#659633;">
+
+	
+	<nav id="nav-atem">
+
+<div id="bar">&nbsp;</div>
+<ul id="ul-atem">
+	<a href="index.html"><li class="cWhite">Kosmetik</li></a><a href="angebot.html"><li class="active cWhite">Angebot</li></a><a href="packages.html"><li class="cWhite">Packages</li></a><a href="../kontakt.html"><li class="cWhite">Kontakt</li></a>
+	</ul>
+	</nav>
+	</div>
+	<div class="right"  style="background-color:#659633;">
+	</div>	
+	<br style="clear:both;">
+	</header>
+
+	<div class="datawrapper">
+	<section class="dataleft">
+
+	</section>
+	
+	<section class="datacenter">
+
+	<h1>Meine Angebote</h1>
+<p>
+
+<br>
+<q style="color:#659633;font-weight:400;position:relative;top:-40px;">Gönnen Sie sich eine Auszeit und lassen Sie sich verwöhnen</q>
+<br>
+Ich biete Ihnen eine Auszeit vom hektischen Alltag. Hier können Sie sich in Ruhe entspannen, während ich Sie verwöhne und pflege.
+Beim ersten Kennenlernen haben für mich die individuelle Begutachtung des Hautbildes und die Wünsche der Kundin/des Kunden oberste Priorität. 
+
+<br>
+<br>
+
+<h2>Gesichts- und Körperbehandlungen</h2>
+
+Jede Behandlungseinheit wird nach den momentanen Hautbedürfnissen erstellt und beinhaltet eine persönlich Zusammenstellung aus Reinigung, Enzympeeling, chemisches Peeling, warme Kompressen oder Dampf, Tiefenreinigung, Korrektur der Augenbrauen, Lymphdrainage, Gesichts-, Hals-, Dekolletémassage, Hals- und Ölwickel, Einarbeitung von Wirkstoffpräperaten und Gesichtsmasken.
+
+<br><br>
+
+
+<table>
+<tr>
+  <td style="width:150px;"><b>Pflege mini</b></td>
+  <td style="width:100px;">45min</td>
+  <td><b>41 €</b></td>
+</tr>
+<tr>
+  <td style="width:150px;"><b>Pflege klein</b></td>
+  <td style="width:100px;">60min</td>
+  <td><b>56 €</b></td>
+</tr>
+<tr>
+  <td style="width:150px;"><b>Pflege intensiv</b></td>
+  <td style="width:100px;">80min</td>
+  <td><b>66 €</b></td>
+</tr>
+<tr>
+  <td style="width:150px;"><b>Pflege groß</b></td>
+  <td style="width:100px;">100min</td>
+  <td><b>91 €</b></td>
+</tr>
+</table>
+
+
+
+<div class="infobox">
+<h2>Microdermabrasion „Diamant“</h2>
+<img src="dermabrasion.jpg" alt="Dermabrasion-Geraet" style="float:right;margin:30px;">
+Bei der Microdermabrasion „Diamant“ wird die Hornschicht der Haut mit einem speziellen Diamant-Schleifaufsatz sanft aber intensiv abgetragen. Mithilfe eines Vakuumsystems werden die abgestorbenen obersten Hornschüppchen abgesaugt.<br>
+Dies regt die Neubildung von Zellen an und die Mikrozirkulation der Haut wird erhöht. Die Aufnahme der danach aufgetragenen feuchtigkeitszuführenden Wirkstoffe wird stark erhöht.
+Die Folge ist ein tiefengereinigtes mit Intensivwirkstoffen versorgtes strahlendes Hautbild.
+<br>
+Die Microdermabrasion ist in eine Pflegebehandlung eingebettet.
+
+</div>
+
+
+
+<p>
+Neben den praktischen Anwendungen biete ich zudem professionelle Pflegeberatung.
+Ich arbeite mit der in Österreich hergestellten Wirkstoffkosmetik <a href="http://www.la-beaute-medecine.at/" style="color:#659633;">la beauté médecine</a> und der dermatologischen Hautpflegeserie MvO-Kosmetik.
+</p>
+<br>
+<img src="pflege1.jpg" alt="Pflege-Lotion" style="float:left;margin:5px;">
+<img src="pflege2.jpg" alt="Pflege-Lotion" style="float:left;margin:5px;">
+<img src="pflege3.jpg" alt="Pflege-Lotion" style="float:left;margin:5px;">
+<img src="pflege4.jpg" alt="Pflege-Lotion" style="float:left;margin:5px;">
+<br>
+
+<br style="clear:both;">
+
+
+
+
+
+
+
+	</section>
+
+	<section class="dataright">
+	</section>
+	<br style="clear:both;">
+	</div>
+	
+
+	<div class="bottom" style="background-color:#659633;">
+	<div class="bottom-content">
+	
+	<div id="quote">
+<q>
+Ich habe schon viele Pflegeprodukte und Kosmetikbehandlungen ausprobiert. 
+<br>
+Gegen meine unreine Haut im Gesicht konnte mir niemand so gut helfen wie Frau Fuchs-Raab. Wunderbar professionelle Arbeit; die Lymphdrainagen bringen schon nach der ersten Behandlung tolle Ergebnisse mit glatter, ruhiger Haut &ndash; vor allem ohne Rötungen. 
+</q>
+	<br><br>
+	<p><b>Barbara W.</b></p>
+	</div>
+
+
+	<br style="clear:both">
+	</div>
+	</div>
+
+	<footer class="footerbar" style="background-color:#659633;">
+	</footer>
+
+
+
+</body>
+
+
+</html>
+

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+	<meta charset="utf-8">
+	<meta name="keywords" content="Atmen, AtemArt, Atemtraining, Atempädagogik, Karin Fuchs-Raab, Kosmetik, Hopfgarten, Hautpflege, Wellness">
+	<meta name="description" content="AtemArt und Skin - Individuelle Hautpflege und Atempädagogik">
+	
+	<title>Atemart und Skin</title>
+	<link href='http://fonts.googleapis.com/css?family=Ledger|Lato:100,300,400,700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	<script src="responsiveslides.min.js"></script>
+</head>
+
+
+<body>
+
+	<header class="headerbar">
+	<div class="left">
+	</div>
+	<div class="center">
+
+	
+	<nav id="nav-atem">
+
+<div id="bar">&nbsp;</div>
+<ul id="ul-atem">
+	<a href="index.html"><li class="active cWhite"><img src="logo.png" id="logo"></li></a><a href="atem/index.html"><li class="cWhite">Atempädagogik</li></a><a href="skin/index.html"><li class="cWhite">Kosmetik</li></a><a href="kontakt.html"><li class="cWhite">Kontakt</li></a>
+	</ul>
+	</nav>
+	</div>
+	<div class="right">
+	</div>	
+	<br style="clear:both;">
+	</header>
+
+	<div class="datawrapper">
+	<section class="dataleft">
+
+	</section>
+	
+	<section class="datacenter">
+	
+	<div id="slider">
+	<script>
+    // You can also use "$(window).load(function() {"
+    $(function () {
+      // Slideshow 4
+      $("#pic-slider").responsiveSlides({
+        auto: true,
+        pager: false,
+        nav: true,
+	timeout:5000,
+        speed: 1500,
+	pause: true, 
+        namespace: "callbacks",
+        before: function () {
+          $('.events').append("<li>before event fired.</li>");
+        },
+        after: function () {
+          $('.events').append("<li>after event fired.</li>");
+        }
+      });
+    });
+	</script>
+	<ul class="rslides" id="pic-slider">
+	<li><a href="skin/index.html"><img src="skin.jpg" alt=""><p class="caption">Gut fühlen - gut aussehen!</p></a></li>
+	<li><a href="atem/index.html"><img src="atem.jpg" alt=""><p class="caption">AtemArt - Die gute Art zu atmen!</p></a></li>
+	<li><a href="skin/index.html"><img src="skin2.jpg" alt=""><p class="caption">Genießen Sie professionelle Pflege für ihre Haut!</p></a></li>
+	<li><a href="atem/index.html"><img src="atem2.jpg" alt=""><p class="caption">AtemArt - Atmen Sie endlich frei durch!</p></a></li>
+	<li><a href="skin/index.html"><img src="skin3.jpg" alt=""><p class="caption">Beratung für die tägliche Hautpflege besonders beanspruchter Zonen</p></a></li>
+	</ul>
+	</div>
+
+
+
+
+	</section>
+
+	<section class="dataright">
+	</section>
+	<br style="clear:both;">
+	</div>
+	
+	<div class="bottom">
+	<div class="bottom-content">
+	
+	<div id="welcome">
+	<p>Atem und Haut reagieren in unserer modernen, schnelllebigen Zeit oft auf Hektik und Stress.<br>
+	Ich möchte Ihnen gerne durch individuelle Hautpflege und Atempädagogik Auszeit und Erholung anbieten. 
+	</p>
+	<p>
+	<br><b>Ich freue mich auf Sie!<b><br><br>
+	</p>
+	</div>
+
+	<div id="picbox">
+<br>
+	<div class="circular">
+	<img src="karinfuchs.jpg">
+	</div>
+	 <b>Karin Fuchs-Raab</b><br>
+	 <i>Fachkosmetikerin und zertifizierte Atempädagogin</i>
+	</div>
+
+	<br style="clear:both">
+	</div>
+	</div>
+
+	<footer class="footerbar">
+	</footer>
+
+
+
+</body>
+
+
+</html>
+
