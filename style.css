@@ -421,3 +421,14 @@ q {
   background-position: right top;
   right: 0;
   }
+
+
+ table.lymph tr td {
+ 	font-size:smaller;
+ 	line-height:1;
+ 	padding:3px;
+ } 
+
+ table.lymph tr .lyleft {
+	font-weight:600 
+} 
